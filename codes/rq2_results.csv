@@ -1,0 +1,13 @@
+Condition,Metric,Slope,Direction,R²,p,Trend
+contextual,Depression,0.004,↑,0.108,0.524,worsening
+contextual,Anxiety,0.009,↑,0.406,0.174,worsening
+contextual,Wellbeing,0.001,↑,0.011,0.844,IMPROVING
+contextual,Coping,-0.022,↓,0.474,0.130,worsening
+generic,Depression,-0.255,↓,1.000,0.000,IMPROVING
+generic,Anxiety,-0.085,↓,1.000,0.000,IMPROVING
+generic,Wellbeing,0.432,↑,1.000,0.000,IMPROVING
+generic,Coping,-0.234,↓,1.000,0.000,worsening
+extra week,Depression,nan,↑,0.000,nan,worsening
+extra week,Anxiety,nan,↑,0.000,nan,worsening
+extra week,Wellbeing,nan,↑,0.000,nan,worsening
+extra week,Coping,nan,↑,0.000,nan,worsening
